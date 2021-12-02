@@ -20,7 +20,7 @@ This repository contains the notebooks that are used in the workshop to demonstr
 * [Databricks ML Blogs](https://databricks.com/blog/category/engineering/data-science-machine-learning)
 * [Databricks Feature Store Blog](https://databricks.com/blog/2021/05/27/databricks-announces-the-first-feature-store-integrated-with-delta-lake-and-mlflow.html)
 * [Databricks AutoML Blog](https://databricks.com/blog/2021/05/27/introducing-databricks-automl-a-glass-box-approach-to-automating-machine-learning-development.html)
-* [Solution Accelerators](https://databricks.com/wp-content/uploads/2019/01/Databricks-Delta-Technical-Guide.pdf)
+* [Solution Accelerators](https://databricks.com/solutions/accelerators)
 
 # Workshop Flow
 
