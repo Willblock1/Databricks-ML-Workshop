@@ -51,4 +51,4 @@ If you have repos enabled on your Databricks workspace. You can directly import 
 
 ## DBC Archive
 
-Download the DBC archive from releases and import the archive into your Databricks workspace.
+Download the DBC archive from the dbc-archive folder and import the archive into your Databricks workspace.
