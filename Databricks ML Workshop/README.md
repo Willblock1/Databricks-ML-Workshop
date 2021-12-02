@@ -17,7 +17,7 @@ This repository contains the notebooks that are used in the workshop to demonstr
 
 * [Lakehouse Whitepaper](https://databricks.com/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
 * [Delta Lake Primer](https://databricks.com/wp-content/uploads/2019/01/Databricks-Delta-Technical-Guide.pdf)
-* [ML Flow Guide] (https://docs.databricks.com/applications/mlflow/index.html)
+* [ML Flow Guide](https://docs.databricks.com/applications/mlflow/index.html)
 * [ML Flow Autologging](https://docs.databricks.com/applications/mlflow/databricks-autologging.html)
 
 # Workshop Flow
