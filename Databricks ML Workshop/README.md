@@ -16,13 +16,15 @@ This repository contains the notebooks that are used in the workshop to demonstr
 # Reading Resources
 
 * [Lakehouse Whitepaper](https://databricks.com/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
-* [Delta Lake Primer](https://databricks.com/wp-content/uploads/2019/01/Databricks-Delta-Technical-Guide.pdf)
 * [ML Flow Guide](https://docs.databricks.com/applications/mlflow/index.html)
-* [ML Flow Autologging](https://docs.databricks.com/applications/mlflow/databricks-autologging.html)
+* [Databricks ML Blogs](https://databricks.com/blog/category/engineering/data-science-machine-learning)
+* [Databricks Feature Store Blog](https://databricks.com/blog/2021/05/27/databricks-announces-the-first-feature-store-integrated-with-delta-lake-and-mlflow.html)
+* [Databricks AutoML Blog](https://databricks.com/blog/2021/05/27/introducing-databricks-automl-a-glass-box-approach-to-automating-machine-learning-development.html)
+* [Solution Accelerators](https://databricks.com/wp-content/uploads/2019/01/Databricks-Delta-Technical-Guide.pdf)
 
 # Workshop Flow
 
-The workshop consists of 4 interactive sections that are separated by notebooks located in the notebooks folder in this repository.
+The workshop consists of 6 interactive sections that are separated by notebooks located in the notebooks folder in this repository.
 |Notebook|Summary|
 |--------|-------|
 |`IDBML 02 - Creating a Feature Table.py`|Feature engineering and creating feature table in the feature store|
@@ -31,6 +33,8 @@ The workshop consists of 4 interactive sections that are separated by notebooks 
 |`IDBML 04b - Implementing a Webhook.py`|Implementing a web hook as a model is transitioned|
 |`IDBML 05 - Deploying a Model for Batch Inference.py`|Deploy model for batch inference|
 |`IDBML 06 - Scheduling a Machine Learning Workflow.py`|Scheduling the ML workflow using Databricks jobs|
+
+We will be going through these notebooks live during today's session. See the power of Databricks ML and understand how you can use ML Flow, Databricks Feature Store and Databricks AutoML to drastically simplify your end-to-end model lifecycle.
 
 
 # Setup / Requirements
