@@ -27,8 +27,8 @@ This repository contains the notebooks that are used in the workshop to demonstr
 The workshop consists of 6 interactive sections that are separated by notebooks located in the notebooks folder in this repository.
 |Notebook|Summary|
 |--------|-------|
-|`IDBML 02 - Creating a Feature Table.py`|Feature engineering and creating feature table in the feature store|
-|`IDBML 03 - Creating a Model with AutoML.py`|Create Model experimentation with autoML|
+|`IDBML 02 - Creating a Feature Table.py`|Feature engineering and creating feature table in the Databricks Feature Store|
+|`IDBML 03 - Creating a Model with AutoML.py`|Create Model experimentation with Databricks AutoML|
 |`IDBML 04a - Registering a Model.py`|Registering a Model in a model registry|
 |`IDBML 04b - Implementing a Webhook.py`|Implementing a web hook as a model is transitioned|
 |`IDBML 05 - Deploying a Model for Batch Inference.py`|Deploy model for batch inference|
